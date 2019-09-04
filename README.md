@@ -1,4 +1,4 @@
-# applewwdc
+# Apple WWDC Project — 2018
 
 Swift playground video game timeline of my journey in computer science with hand-drawn animated graphics
 
