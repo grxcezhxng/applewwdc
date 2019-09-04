@@ -6,4 +6,4 @@ Accepted submission to Apple's WWDC (2018)
 
 Demo: https://youtu.be/3fjN03yrEOo
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Screenshot](https://github.com/grxcezhxng/applewwdc/blob/master/Screenshots/destination.png)
